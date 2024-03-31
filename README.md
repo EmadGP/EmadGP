@@ -5,21 +5,13 @@
 
 - 🌱 I’m currently learning **Object-oriented-programming, C]**
 
-- 👯 I’m looking to collaborate on [-](-)
-
-- 🤝 I’m looking for help with [-](-)
-
 - 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [-](-)
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **Not ;)**
 
 - 📄 Know about my experiences [-](-)
-
-- ⚡ Fun fact **-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
