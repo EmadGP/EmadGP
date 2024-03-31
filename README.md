@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pokemon_go](-)
 
-- 🌱 I’m currently learning **Object-oriented-programming, C]**
+- 🌱 I’m currently learning **Object-oriented-programming, C#**
 
 - 👨‍💻 All of my projects are available at [-](-)
 
