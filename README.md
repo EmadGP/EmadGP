@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Emad</h1>
 <h3 align="center">A Software-development student!</h3>
 
-- 🔭 I’m currently working on [Pokemon_go](-)
+- 🔭 I’m currently working on [php,sql](-)
 
 - 🌱 I’m currently learning **Object-oriented-programming, C#**
-
-- 👨‍💻 All of my projects are available at [-](-)
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **Not ;)**
 
-- 📄 Know about my experiences [-](-)
+- 📄 Know about my experiences [1,5 year software-development student](-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
